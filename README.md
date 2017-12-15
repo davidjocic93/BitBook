@@ -19,7 +19,7 @@ DEMO : [BitBook](https://bit-book.herokuapp.com/)
 # Stack
 
     Language:   HTML5, CSS3, JS(ES6)
-    Framework:  React, MaterializeCSS
+    Framework:  React, Bootstrap
     Module Loader:  Webpack
     Package Manager:  Yarn
     Deployment: Heroku
