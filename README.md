@@ -2,9 +2,9 @@
 BitBook is a Single Page Application which simulates social network where users can create an account, post image, video, or text posts, comment on other users posts, update profile and much more.
 
 
-DEMO : [BITBOOK](https://bitbook-react.herokuapp.com/) 
+DEMO : [BITBOOK](https://bit-book.herokuapp.com/) 
 
-(might take couple seconds to wakeup)
+(if app doesn't start immediately wait few seconds to wake up)
 
 # Showcasing 
 
