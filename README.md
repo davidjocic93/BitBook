@@ -1,25 +1,10 @@
 # BitBook
-BitBook is a Single Page Application which simulates social network where users can create an account, post image, video, or text posts, comment on other users posts, update profile and much more.
+BitBook is a Single Page Application written in React.js which simulates social network where users can create an account, post image, video, or text posts, comment on other users posts, update profile and much more.
+
+It is showing usage of Bootstrap, statefull and stateless components, routing and navigation, authentication and validation.
 
 
 DEMO : [BitBook](https://bit-book.herokuapp.com/) 
 
 (if app doesn't start immediately wait few seconds to wake up)
 
-# Showcasing 
-
-    -   React.js
-    -   RESTFul API
-    -   Passing data through multiple layers, both ways
-    -   Stateful and Stateless components
-    -   Routing and navigation
-    -   Authentication
-    -   Validation
-
-# Stack
-
-    Language:   HTML5, CSS3, JS(ES6)
-    Framework:  React, Bootstrap
-    Module Loader:  Webpack
-    Package Manager:  Yarn
-    Deployment: Heroku
